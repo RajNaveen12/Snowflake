@@ -1,0 +1,2 @@
+create or replace table git_test(id int , 
+name varchar(20));
