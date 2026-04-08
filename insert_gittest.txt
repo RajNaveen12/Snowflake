@@ -1,0 +1,1 @@
+insert into git_test values(1,'raja),(2,'naveen');
